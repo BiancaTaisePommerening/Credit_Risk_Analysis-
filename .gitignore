@@ -1,6 +1,8 @@
 # add .DS_Store
-
 .DS_Store
+
+# add large file
+LoanStats_2019Q1.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

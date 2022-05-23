@@ -8,11 +8,18 @@ Supervised Machine Learning
 
 ## Results
 
-### RandomOverSampler Oversampling
+### Random Oversampling
+
+![randomOverSampler_confusion_matrix](./Resources/randomOverSampler_confusion_matrix.png)
 
 ### SMOTE Oversampling
 
-### ClusterCentroids Undersampling
+![SMOTE_over_sampling_confusion_matrix](./Resources/SMOTE_over_sampling_confusion_matrix.png)
+
+
+### Cluster Centroids Undersampling
+
+![undersampling_confusion_matrix](./Resources/undersampling_confusion_matrix.png)
 
 ### SMOTEENN Combination Under and Over Sampling
 

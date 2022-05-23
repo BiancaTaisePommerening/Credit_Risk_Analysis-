@@ -3,6 +3,29 @@
 Supervised Machine Learning
 
 
+## Analysis Overview
+
+
+## Results
+
+### RandomOverSampler Oversampling
+
+### SMOTE Oversampling
+
+### ClusterCentroids Undersampling
+
+### SMOTEENN Combination Under and Over Sampling
+
+### Balanced Random Forest Classifier - Ensemble Learner
+
+### Easy Ensemble AdaBoost Classifier
+
+### 2nd Test on Balanced Random Forest Classifier - Ensemble Learner
+
+## Summary
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
 
@@ -21,9 +44,11 @@ The written analysis has the following:
 Overview of the loan prediction risk analysis:
 
 The purpose of this analysis is well defined (4 pt)
+
 Results:
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+
 Summary:
 
 There is a summary of the results (2 pt)

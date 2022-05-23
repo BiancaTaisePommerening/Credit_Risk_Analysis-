@@ -10,25 +10,30 @@ Supervised Machine Learning
 
 ### Random Oversampling
 
-![randomOverSampler_confusion_matrix](./Resources/randomOverSampler_confusion_matrix.png)
+![randomOverSampler_classification_report](./Resources/randomOverSampler_classification_report.png)
 
 ### SMOTE Oversampling
 
-![SMOTE_over_sampling_confusion_matrix](./Resources/SMOTE_over_sampling_confusion_matrix.png)
+![SMOTE_over_sampling_classification_report](./Resources/SMOTE_over_sampling_classification_report.png)
 
 
 ### Cluster Centroids Undersampling
 
-![undersampling_confusion_matrix](./Resources/undersampling_confusion_matrix.png)
+![undersampling_classification_report](./Resources/undersampling_classification_report.png)
 
 ### SMOTEENN Combination Under and Over Sampling
 
-![smoteenn_confusion_matrix](./Resources/smoteenn_confusion_matrix.png)
+![smoteenn_classification_report](./Resources/smoteenn_classification_report.png)
 
 
 ### Balanced Random Forest Classifier - Ensemble Learner
 
+![brfc_classification_report](./Resources/brfc_classification_report.png)
+
 ### Easy Ensemble AdaBoost Classifier
+
+![eec_classification_report](./Resources/eec_classification_report.png)
+
 
 ### 2nd Test on Balanced Random Forest Classifier - Ensemble Learner
 

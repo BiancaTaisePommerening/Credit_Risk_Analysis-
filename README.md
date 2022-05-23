@@ -5,6 +5,23 @@ Supervised Machine Learning
 
 ## Analysis Overview
 
+Perform credit risk analysis using imbalanced-learn and scikit-learn libraries to build and evaluate Supervised Machine learning Models using resampling techniques where models with unbalanced classes are trained and evaluated, in order to write a recommendation on whether any of them should be used to predict credit risk.
+
+
+Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, to oversample the data using the following machine learning models and their algoriths:
+- Oversampling Model
+    - RandomOverSampler Algorithm
+    - SMOTE Algorithm
+- Undersampling Model:
+    - ClusterCentroids Algorithm
+- Combination Over- and Undersampling Model
+    - SMOTEEN Algorithm
+- Reducing Bias Models:
+    - BalancedRandomForestClassifier
+    - EasyEnsembleClassifier
+
+
+
 
 ## Results
 
@@ -37,11 +54,17 @@ Supervised Machine Learning
 
 ### 2nd Test on Balanced Random Forest Classifier - Ensemble Learner
 
+
+
 ## Summary
 
 ### Model Accuracy
 
 ![model_accuracy_results](./Resources/model_accuracy_results.png)
+
+
+![model_accuracy_results1](./Resources/model_accuracy_results1.png)
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------

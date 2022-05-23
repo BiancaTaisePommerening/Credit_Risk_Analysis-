@@ -23,6 +23,9 @@ Supervised Machine Learning
 
 ### SMOTEENN Combination Under and Over Sampling
 
+![smoteenn_confusion_matrix](./Resources/smoteenn_confusion_matrix.png)
+
+
 ### Balanced Random Forest Classifier - Ensemble Learner
 
 ### Easy Ensemble AdaBoost Classifier
@@ -31,6 +34,9 @@ Supervised Machine Learning
 
 ## Summary
 
+### Model Accuracy
+
+![model_accuracy_results](./Resources/model_accuracy_results.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------

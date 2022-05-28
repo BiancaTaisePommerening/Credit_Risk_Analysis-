@@ -1,6 +1,8 @@
 # add .DS_Store
 .DS_Store
 
+# add practice folder.
+Supervised_Machine_Learning_practice
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

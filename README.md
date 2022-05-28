@@ -58,7 +58,7 @@ The results are presented between 0 and 1, where 0 means that the model does not
 
 
 - **Precision:**
-    - The precision of the bad loan applications (high_risk) is very close to 0% for all six algorithms, indicating that none of the models predict well the number of true positives. On the other hand, all the models are 1 or 100% which means they are great at predicting good loan applications.
+    - The precision of the bad loan applications (high_risk) is very close to 0% for all six algorithms, indicating that none of the models predict well the number of true positives. On the other hand, all the models are 1 or 100% for the low_risk class which means they are great at predicting good loan applications.
 
 - **Recall/Sensitivity:**
     - The Easy Ensemble AdaBoost Classifier showed good recall results, where bad loan applications had 92% and good loans had 94%.
